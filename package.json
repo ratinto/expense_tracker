@@ -16,5 +16,8 @@
     "mongoose": "^8.8.2",
     "react-scripts": "^5.0.1"
   },
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "vite": "^5.4.11"
+  }
 }
